@@ -13,4 +13,4 @@
 #
 ---
 include:
-  - board: bt60_v2_hs
+  - board: bt60_v2
